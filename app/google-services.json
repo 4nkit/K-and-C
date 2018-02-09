@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "929828168441",
+    "firebase_url": "https://k-and-c.firebaseio.com",
+    "project_id": "k-and-c",
+    "storage_bucket": "k-and-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929828168441:android:46548a875f8b3f4a",
+        "android_client_info": {
+          "package_name": "com.example.ankit.KandC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929828168441-606oec4pg85eak0vefg630upcuvbg6v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ankit.KandC",
+            "certificate_hash": "c7d89ffa76d0e70b5937005c50dc6669feb1ffd8"
+          }
+        },
+        {
+          "client_id": "929828168441-tipakngk6v54udb7eougk809sad20tlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ankit.KandC",
+            "certificate_hash": "a14eb98ac1b0a714ee8aaf2c641183e1c743770c"
+          }
+        },
+        {
+          "client_id": "929828168441-204ej1j9s3qgvctgqkgka43t55km5k7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nhYttzGWRQntIJrn6YTHXMkw_YHNRQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929828168441-204ej1j9s3qgvctgqkgka43t55km5k7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929828168441:android:1e48638b50319b29",
+        "android_client_info": {
+          "package_name": "com.seaborg.android.mainapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929828168441-fbvl3cbqhderqel2iv2ctpvhad7bhjft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seaborg.android.mainapp",
+            "certificate_hash": "a14eb98ac1b0a714ee8aaf2c641183e1c743770c"
+          }
+        },
+        {
+          "client_id": "929828168441-204ej1j9s3qgvctgqkgka43t55km5k7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nhYttzGWRQntIJrn6YTHXMkw_YHNRQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929828168441-204ej1j9s3qgvctgqkgka43t55km5k7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929828168441:android:d712f41933c9fac8",
+        "android_client_info": {
+          "package_name": "com.seaborg.android.recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929828168441-ac6ck6s6ghja1s6dm3tri9884ut54cut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seaborg.android.recyclerview",
+            "certificate_hash": "a14eb98ac1b0a714ee8aaf2c641183e1c743770c"
+          }
+        },
+        {
+          "client_id": "929828168441-204ej1j9s3qgvctgqkgka43t55km5k7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nhYttzGWRQntIJrn6YTHXMkw_YHNRQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929828168441-204ej1j9s3qgvctgqkgka43t55km5k7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

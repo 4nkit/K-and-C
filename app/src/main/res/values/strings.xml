@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">K&amp;C</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_addnewpro">addnewpro</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
